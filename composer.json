@@ -1,5 +1,5 @@
 {
-    "name": "VlGeTo/php-mvc-core",
+    "name": "vl-ge-to/php-mvc-core",
     "autoload": {
         "psr-4": {
             "Vt\\PhpMvcFramework\\": "src/"
