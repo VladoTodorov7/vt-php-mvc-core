@@ -1,10 +1,10 @@
 <?php
-namespace App\Core;
+namespace Vlgeto\PhpMvc;
 
 /** 
  * Class Response
  * 
- * @package App\Core
+ * @package Vlgeto\PhpMvc
 */
 
 class Response 

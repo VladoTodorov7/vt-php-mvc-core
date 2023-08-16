@@ -1,11 +1,11 @@
 <?php 
-namespace App\Core;
-use App\Core\Exception\NotFoundException;
+namespace Vlgeto\PhpMvc;
+use Vlgeto\PhpMvc\Exception\NotFoundException;
 
 /** 
  * Class Router
  * 
- * @package App\Core
+ * @package Vlgeto\PhpMvc
 */
 
 class Router

@@ -1,12 +1,12 @@
 <?php
-namespace App\Core\Db;
+namespace Vlgeto\PhpMvc\Db;
 
-use App\Core\Application;
-use App\Core\Model;
+use Vlgeto\PhpMvc\Application;
+use Vlgeto\PhpMvc\Model;
 
 /**
  * DbModel
- * @package App\Core
+ * @package Vlgeto\PhpMvc
  */
 abstract class DbModel extends Model
 {

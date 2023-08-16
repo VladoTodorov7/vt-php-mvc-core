@@ -1,9 +1,9 @@
 <?php
-namespace App\Core\Middlewares;
+namespace Vlgeto\PhpMvc\Middlewares;
 
-use App\Core\Application;
-use App\Core\Exception\ForbiddenException;
-use App\Core\Middlewares\BaseMiddleware;
+use Vlgeto\PhpMvc\Application;
+use Vlgeto\PhpMvc\Exception\ForbiddenException;
+use Vlgeto\PhpMvc\Middlewares\BaseMiddleware;
 
 class AuthMiddleware extends BaseMiddleware
 {

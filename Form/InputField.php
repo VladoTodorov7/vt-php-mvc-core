@@ -1,11 +1,11 @@
 <?php 
-namespace App\Core\Form;
+namespace Vlgeto\PhpMvc\Form;
 
-use App\Core\Model;
+use Vlgeto\PhpMvc\Model;
 
 /**
  * Field
- * @package App\Core\Form
+ * @package Vlgeto\PhpMvc\Form
  */
 
 class InputField extends BaseField

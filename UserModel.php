@@ -1,7 +1,7 @@
 <?php 
-namespace App\Core;
+namespace Vlgeto\PhpMvc;
 
-use App\Core\Db\DbModel;
+use Vlgeto\PhpMvc\Db\DbModel;
 
 abstract class UserModel extends DbModel
 {

@@ -1,6 +1,6 @@
 <?php 
-namespace App\Core\Form;
-use App\Core\Model; 
+namespace Vlgeto\PhpMvc\Form;
+use Vlgeto\PhpMvc\Model; 
 
 abstract class BaseField
 {

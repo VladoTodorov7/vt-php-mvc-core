@@ -1,5 +1,5 @@
 <?php 
-namespace App\Core;
+namespace Vlgeto\PhpMvc;
 
 abstract class Model
 {

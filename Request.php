@@ -1,10 +1,10 @@
 <?php
-namespace App\Core;
+namespace Vlgeto\PhpMvc;
 
 /** 
  * Class Application
  * 
- * @package App\Core
+ * @package Vlgeto\PhpMvc
  */
 
 class Request

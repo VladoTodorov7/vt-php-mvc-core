@@ -1,5 +1,5 @@
 <?php 
-namespace App\Core\Middlewares;
+namespace Vlgeto\PhpMvc\Middlewares;
 
 abstract class BaseMiddleware
 {

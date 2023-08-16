@@ -1,5 +1,5 @@
 <?php
-namespace App\Core\Exception;
+namespace Vlgeto\PhpMvc\Exception;
 
 class NotFoundException extends \Exception
 {

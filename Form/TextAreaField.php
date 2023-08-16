@@ -1,7 +1,7 @@
 <?php 
-namespace App\Core\Form;
+namespace Vlgeto\PhpMvc\Form;
 
-use App\Core\Form\BaseField;
+use Vlgeto\PhpMvc\Form\BaseField;
 
 class TextAreaField extends BaseField
 {

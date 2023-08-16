@@ -1,11 +1,11 @@
 <?php
-namespace App\Core;
-use App\Core\Db\Database;
+namespace Vlgeto\PhpMvc;
+use Vlgeto\PhpMvc\Db\Database;
 
 /** 
  * Class Application
  * 
- * @package App\Core
+ * @package Vlgeto\PhpMvc
 */
 class Application
 {

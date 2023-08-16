@@ -1,12 +1,12 @@
 <?php 
-namespace App\Core;
+namespace Vlgeto\PhpMvc;
 
-use App\Core\Middlewares\BaseMiddleware;
+use Vlgeto\PhpMvc\Middlewares\BaseMiddleware;
 
 /**
  * Class Controller
  * 
- * @package App\Core
+ * @package Vlgeto\PhpMvc
  */
 
 class Controller 
@@ -15,7 +15,7 @@ class Controller
     public string $action = '';
 
     /**
-     * @var \App\Core\Middlewares\BaseMiddleware[]
+     * @var \Vlgeto\PhpMvc\Middlewares\BaseMiddleware[]
      */
     protected array $middlewares = [];
 
