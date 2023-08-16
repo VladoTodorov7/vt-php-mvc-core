@@ -1,0 +1,15 @@
+{
+    "name": "vt/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Vt\\PhpMvcFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vlado Todorov",
+            "email": "vlado.georgiev.todorov@gmail.com"
+        }
+    ],
+    "require": {}
+}
